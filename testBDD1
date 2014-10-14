@@ -1,0 +1,6 @@
+This is my very first test BDD
+Jingle bells jingle bells
+Jingle all the way
+given user is on www.usatoday.com
+then I should see navbar with all subsections
+and I should see hero module
